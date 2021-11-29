@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background: #000;
+    width: 500px;
+    height: 300px;
+    border: 5px solid green;
+    text-align: center;
+
+    position: relative;
+    
+    
+}
+.hello{
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    background-color:rgb(245, 228, 72);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50% );
+}
+h1{
+    padding-top: 50px;
+}
